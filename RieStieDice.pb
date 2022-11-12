@@ -654,5 +654,5 @@ Config::Store()
 ; Optimizer
 ; EnableThread
 ; EnableXP
-; UseIcon = ..\..\..\Downloads\favicon(1).ico
-; Executable = RieStieDice.exe
+; UseIcon = favicon.ico
+; Executable = bin\RieStieDice.exe
